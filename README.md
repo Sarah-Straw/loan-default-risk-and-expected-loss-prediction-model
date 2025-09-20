@@ -13,6 +13,9 @@ Calculates probability of default for loan borrowers and expected loss using log
 
 ## Example Output
 
+<p align="center">
+  <img src="images/AUCoutput.png" width="450"/>
+</p>
 
 
 ## Usage
